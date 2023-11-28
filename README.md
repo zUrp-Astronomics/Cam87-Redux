@@ -6,6 +6,8 @@
 
 ![ED view](https://github.com/zUrp-Astronomics/Cam87-Redux/blob/c6d6775af85cb11b0b84bf59b08a4f8a324bd49f/Logic_board/Cam87R_edux%20-%20Logic_board_v1.1%20-%202_3D-view_top.png)
 
+OSHWlab project : https://oshwlab.com/lordzurp/cam87_redux
+
 **la base**
 la Cam87, c'est un projet ukrainien du turfu pour faire une caméra astro refroidie à partir d'un capteur de Nikon D40 : APS-C, 6Mpx, 7.8µm
 (c'est le même capteur dans les QHY 8Pro https://www.astroshop.de/fr/cameras-astronomiques/camera-qhy-8-pro-color/p,54748#specifications
