@@ -1,5 +1,5 @@
-# Cam87circle
-**Cam87 Redux** un capteur APS-C dans le corps d'une cam planétaire ZWO
+# Cam87 Redux
+Un capteur APS-C dans le corps d'une cam planétaire ZWO
 
 ** PRELIMINARY COMMIT **
 ** not validated **
